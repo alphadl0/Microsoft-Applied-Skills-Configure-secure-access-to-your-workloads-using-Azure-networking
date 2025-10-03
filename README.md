@@ -1,6 +1,6 @@
 ## Microsoft Applied Skills: Configure secure access to your workloads using Azure networking
 
-🔗 https://learn.microsoft.com/api/credentials/share/en-us/alpha-dl0/22F4D511C0849C4A?sharingId=studentamb_275602
+🔗 [View my certification on Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/22F4D511C0849C4A?sharingId=studentamb_275602)
 
 ### 🎯 Skills demonstrated:
 
